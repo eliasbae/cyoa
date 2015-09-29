@@ -1,0 +1,25 @@
+
+
+p {
+	color:blue;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.big { 
+
+       font-size:30px;
+       }
+
+body { background-color:gray; }
+
+.emphasis {
+		font-weight:bold;
+		font-family:"Comic Sans MS";
+}
+
+.jesus {
+	font-style:italic;
+	color:red;
+}
+
+h3 {color:red;}
